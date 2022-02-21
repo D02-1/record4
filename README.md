@@ -11,4 +11,4 @@ The next step will be to create a feed function that will feed our database with
 3. Write a seed script using chance that will run everytime we start our project. If the database is empty, it will feed it some records, orders and users.
 
 
-[Alternative zu faker](https://makinhs.medium.com/open-source-npm-faker-and-chance-as-an-option-16f1b6fdb2d1)
+[chance eine Alternative zu faker](https://makinhs.medium.com/open-source-npm-faker-and-chance-as-an-option-16f1b6fdb2d1)
